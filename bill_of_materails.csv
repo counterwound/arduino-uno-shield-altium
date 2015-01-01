@@ -1,6 +1,2 @@
-Bill Of Materials,,,
-Designator,Part #, Digikey, Mouser
-P1,,,
-P2,,,
-P3,,,
-P4,,,
+Designator,Description,Part #,Sparkfun, Digikey, Mouser
+P1-P4,Headers,,PRT-11417,,

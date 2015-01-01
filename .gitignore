@@ -1,0 +1,8 @@
+.DS_Store
+*.PrjPCBStructure
+*.log
+*.raw
+__Previews
+History
+Design\ Rule*.*
+hardware/Project\ Logs*
